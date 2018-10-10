@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[模版]]></title>
+    <url>%2F2018%2F10%2F09%2F1%2F</url>
+    <content type="text"><![CDATA[铅笔 这里是文章的简要介绍 人生乃是一面镜子，从镜子里认识自己，我要称之为头等大事，也只是我们追求的目的！ 代码片段 12console.log(123) 123- auto_detect: false+ auto_detect: true defaultprimarysuccessinfowarningdangerdanger no-icon default primary success info warning danger 选项卡 1选项卡 2选项卡 3这是选项卡 1 呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈呵呵哈哈哈哈哈哈哈哈……这是选项卡 2这是选项卡 3 哇，你找到我了！φ(≧ω≦*)♪～ 内容 1. ## ## ##]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo 功能优化]]></title>
+    <url>%2F2018%2F10%2F08%2F1%2F</url>
+    <content type="text"><![CDATA[Hexo写作时添加图片 1.修改_config.yml配置文件post_asset_folder项为true 2.运行命令 hexo new hexo-page 此时Hexo将会在source/_posts下新建hexo-page文件夹 3.将需要引用的图片放在新建的hexo-page文件夹里 4.引用图片]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F10%2F07%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1console.log(test); 1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
